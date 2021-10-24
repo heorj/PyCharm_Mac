@@ -1,0 +1,10 @@
+{
+    "number": 0,
+    "boolean": true,
+    "string": "string",
+    "none": null,
+    "float": 3.14,
+    "dictionary": {
+        "key": "value"
+    }
+}
